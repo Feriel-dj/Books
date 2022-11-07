@@ -1,0 +1,8 @@
+//library
+export const ADD_BOOKS = "ADD_BOOKS"
+export const DELETE_BOOKS = "DELETE_BOOKS"
+export const DELETE_ALL_BOOKS = "DELETE_ALL_BOOKS"
+//Fetch
+export const FETCH_BOOKS_LOADIN = "FETCH_BOOKS_LOADIN "
+export const FETCH_BOOKS_SUCCESS = "FETCH_BOOKS_SUCCESS"
+export const FETCH_BOOKS_ERROR= "FETCH_BOOKS_ERROR"
